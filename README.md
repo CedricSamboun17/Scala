@@ -1,1 +1,1 @@
-# Scala
+# ScalaProject
